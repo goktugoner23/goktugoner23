@@ -1,12 +1,4 @@
-## Hi there 👋
-
-<!--
-**goktugoner23/goktugoner23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...# Göktuğ Öner
+# Göktuğ Öner
 
 **M.Sc. Candidate in Computer Engineering**  
 **Full-Stack Developer | Researcher | Martial Arts Instructor**  
@@ -124,16 +116,8 @@ Eskisehir, Turkey | 2012 – 2014
 
 ## Contact
 
-Feel free to connect with me for collaboration or development opportunities
+Feel free to connect with me for collaboration or development opportunities.
 
 📧 goktugoner23@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/goktugoner)  
 🔗 [GitHub](https://github.com/goktugoner23)
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

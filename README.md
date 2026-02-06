@@ -18,7 +18,7 @@ I am a multidisciplinary professional with a strong foundation in computer engin
 
 **Çanakkale 18 Mart University**  
 *M.Sc. in Computer Engineering*  
-2024 – Present  
+2024 – 2025  
 Focus Area: Quantum Computing
 
 **Anadolu University**  
@@ -40,7 +40,7 @@ Thesis: Visualization of Mandelbrot fractals
 
 ## Professional Experience
 
-**Fullstack Developer / Team Lead - Darpha Studios**
+**Fullstack Developer / Team Lead - Darpha Studios**  
 Dubai, UAE | 2025 - Present
 - Developing of end to end backend systems for iGaming and integration of various features for company systems. Leading 20+ people engineering team under the CTO, making sure workflow remains flawless and follows best practices.
 - Technologies: Nodejs, Typescript, Fastify, Helmet, Sentry, Grafana, PostgreSQL, AWS, Tailwind, CSS, Pixijs, Docker, ec2 

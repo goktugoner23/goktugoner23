@@ -40,6 +40,11 @@ Thesis: Visualization of Mandelbrot fractals
 
 ## Professional Experience
 
+**Fullstack Developer / Team Lead - Darpha Studios**
+Dubai, UAE | 2025 - Present
+- Developing of end to end backend systems for iGaming and integration of various features for company systems. Leading 20+ people engineering team under the CTO, making sure workflow remains flawless and follows best practices.
+- Technologies: Nodejs, Typescript, Fastify, Helmet, Sentry, Grafana, PostgreSQL, AWS, Tailwind, CSS, Pixijs, Docker, ec2 
+
 **DevOps Engineer – 3 Whales IT & Mining**  
 Canakkale, Turkey | 2024 – Present  
 - Developed backend systems for the digitalization of logistics and trading in the natural stone industry  

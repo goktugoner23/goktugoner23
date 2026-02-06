@@ -2,7 +2,7 @@
 
 **M.Sc. Candidate in Computer Engineering**  
 **Full-Stack Developer | Researcher | Martial Arts Instructor**  
-Çanakkale, Turkey  
+Dubai, UAE
 📧 goktugoner23@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/goktugoner) | [GitHub](https://github.com/goktugoner23)
 
